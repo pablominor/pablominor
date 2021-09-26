@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Pablo 👋💻
+
+```js
+const pablominor = {
+  pronouns: "he" | "him",
+  code: [C#, Java, Javascript, AngularJS, HTML],
+  database : [mySql]
+}
+
+
+```
+
 
 <!--
 **pablominor/pablominor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
