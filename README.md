@@ -2,9 +2,10 @@
 
 ```js
 const pablominor = {
-  pronouns: "he" | "him",
+  work: Software developer,
   code: [C#, Java, Javascript, AngularJS, HTML],
-  database : [mySql]
+  database : [mySql, mariaDB],
+  comapny: Inditex
 }
 
 
