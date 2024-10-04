@@ -5,7 +5,7 @@ const pablominor = {
   work: Software developer,
   code: [C#, Java, Javascript, AngularJS, HTML],
   database : [mySql, mariaDB],
-  comapny: Inditex
+  company: Inditex
 }
 
 
